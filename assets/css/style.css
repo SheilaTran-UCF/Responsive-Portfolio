@@ -135,6 +135,12 @@ position: relative;
   margin: 20px 0 25px; 
   overflow: auto; 
 } 
+
+.work:hover h3 {
+  background-color: greenyellow;
+  color: blue;
+}
+
 .work:nth-child(even) { 
   margin-right: 40px; 
 } 
